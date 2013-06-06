@@ -1,0 +1,47 @@
+body
+{
+	margin: auto;
+	background-color: #282828;
+}
+
+#wrapper
+{
+	margin: auto;
+	width: 800px;
+}
+
+/* HEADER */ 
+
+#header
+{
+	
+}
+
+#header-vbarre-gauche
+{
+
+}
+
+#header-coin-gauche
+{
+	height: 117px;
+	width: 65px;
+	background-image: url("images/header-coin-gauche.png");
+}
+
+/*  */
+
+#navigation
+{
+	
+}
+
+#content
+{
+	width: 965 px;
+}
+
+#footer
+{
+	
+}
