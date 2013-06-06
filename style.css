@@ -17,11 +17,6 @@ body
 	
 }
 
-#header-vbarre-gauche
-{
-
-}
-
 #header-coin-gauche
 {
 	height: 117px;
@@ -29,19 +24,41 @@ body
 	background-image: url("images/header-coin-gauche.png");
 }
 
+#header-fond-barre
+{
+	height: 63px;
+	width: 500px;
+	background-image: url("images/header-fond-barre.png");
+	background-repeat: repeat-x;
+	position: relative;
+	left: 65px;
+	top: -64px;
+
+}
+
 /*  */
 
-#navigation
+#body-ombre-gauche
 {
-	
+	height: 500px;
+	width: 122px;
+	background-image: url("images/body-ombre-gauche.png");
+	background-repeat: repeat-y;
+	float: left;
 }
 
 #content
 {
-	width: 965 px;
+	float: left;
 }
 
-#footer
+#body-ombre-droite
 {
-	
+	height: 500px;
+	width: 122px;
+	background-image: url("images/body-ombre-gauche.png");
+	background-repeat: repeat-y;
+	float: left;
 }
+
+/***/
